@@ -23,14 +23,7 @@ Este projeto explora o uso de IAs generativas para criar conteúdos que imitam a
 ## 💭 Reflexão
 Este desafio demonstrou o incrível potencial das IAs generativas em criar conteúdos indistinguíveis dos produzidos por humanos. No entanto, também levantou questões éticas sobre a utilização dessas tecnologias para enganar ou manipular o público. A linha entre o que é "natty" e o que não é está se tornando cada vez mais tênue, e é essencial abordar esses avanços com responsabilidade.
 
-### Exemplos e Insigths
+### Livro
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [E-BOOK](História_da_IA.pdf)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
