@@ -25,5 +25,5 @@ Este desafio demonstrou o incrível potencial das IAs generativas em criar conte
 
 ### Livro
 
-- [E-BOOK](História_da_IA.pdf)
+- [História da IA.pdf](História_da_IA.pdf)
 
